@@ -2,7 +2,7 @@ site:
   name: AboutC2PA
   site: 'https://aboutsvc.github.io/about-c2pa-web'
   base: '/about-c2pa-web'
-  trailingSlash: false
+  trailingSlash: true
 
   googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
 
